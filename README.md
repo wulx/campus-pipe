@@ -1,6 +1,6 @@
 Campus Pipe
-==========
---------------------
+===========
+
 
 Campus Pipe 是一个基于 Meteor 开发的校园生活应用网站。
 --------------------------------------------------------------------------------------
@@ -80,7 +80,7 @@ Campus Pipe ---+--- app: pipe     ---  Send and receive pipe message
 
   4. [@wulx](https://github.com/wulx) and [blog](http://rug.blog.ustc.edu.cn/)
 
----------------------------------------
+
 *Free Software, Hell Yeah!*
 
   [Meteor]: http://www.meteor.com/  "an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework"
